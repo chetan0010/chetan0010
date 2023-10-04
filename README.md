@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan0010&label=Profile%20views&color=0e75b6&style=flat" alt="chetan0010" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chetan_j__" target="blank"><img src="https://img.shields.io/twitter/follow/chetan_j__?logo=twitter&style=for-the-badge" alt="chetan_j__" /></a> </p>
-
 - 📫 How to reach me **chetanjoshis0777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chetan_j__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chetan_j__" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/chetan-joshi-97b3a3242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chetan-joshi-97b3a3242" height="30" width="40" /></a>
 <a href="https://instagram.com/_chetan7_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chetan7_j" height="30" width="40" /></a>
 <a href="https://leetcode.com/chetanj007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/chetanj007/" height="30" width="40" /></a>

@@ -9,9 +9,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/chetan-joshi-97b3a3242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chetan-joshi-97b3a3242" height="30" width="40" /></a>
-<a href="https://instagram.com/_chetan7_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chetan7_j" height="30" width="40" /></a>
 <a href="https://leetcode.com/chetanj007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/chetanj007/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/chetanjoshis0777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/chetanjoshis0777" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
